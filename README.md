@@ -13,18 +13,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - ⚡ Fun fact: I love exploring the outdoors and I'm an avid marathon runner.
 
 ## 🛠️ Languages and Tools
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Frontend Development:** React, HTML, CSS, Sass
-- **Backend Development:** Node.js, Express, Django, Flask
-- **Database Management:** MySQL, PostgreSQL, MongoDB
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **Cloud Platforms:** AWS, Azure, Google Cloud
-
+- **Programming Languages:** Python, Dart, Java, C++,Sql
+- **Frontend Development:** React, HTML, CSS
+- **Database Management:** MySQL,MongoDB
+- **App Development:** Flutter, Dart 
 ## 📊 GitHub Stats
 ![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tariq3654467&show_icons=true&theme=radical)
 
 ## 🌟 Top Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Tariq3654467&repo=repo-name&theme=radical)](https://github.com/Tariq3654467/repo-name)
+[![Repo Name](https://github.com/Tariq3654467/first_aid-app-in-Flutter)
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Tariq3654467&repo=repo-name&theme=radical)](https://github.com/Tariq3654467/repo-name)
 
 ## 📫 Connect with Me
