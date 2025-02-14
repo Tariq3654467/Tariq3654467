@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 👯 I’m looking to collaborate on open-source projects that make a positive impact on the community.
 - 💬 Ask me about **Python, JAVA, SQL, Dart, and AI/ML**.
 - 📝 I regularly write articles on [my blog](https://tariqbloginng.blogspot.com/) about tech trends, tutorials, and personal experiences in the tech world.
-- 📫 How to reach me: [tariq@example.com](janjuatariq7614@gmail.com)
+- 📫 How to reach me: [janjuatariq7614@gmail.com](janjuatariq7614@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring the outdoors and I'm an avid marathon runner.
 
@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tariq3654467&show_icons=true&theme=radical)
 
 ## 🌟 Top Repositories
-[![Repo Name](https://github.com/Tariq3654467/first_aid-app-in-Flutter)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Tariq3654467&repo=repo-name&theme=radical)](https://github.com/Tariq3654467/repo-name)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Tariq3654467&repo=repo-name&theme=radical)](https://github.com/Tariq3654467/first_aid-app-in-Flutter)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Tariq3654467&repo=repo-name&theme=radical)](https://github.com/Tariq3654467/InternIntelligence_Movie-App)
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Tariq](https:/)
