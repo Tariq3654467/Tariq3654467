@@ -17,12 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Frontend Development:** React, HTML, CSS
 - **Database Management:** MySQL,MongoDB
 - **App Development:** Flutter, Dart 
-## 📊 GitHub Stats
-![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tariq3654467&show_icons=true&theme=radical)
-
-## 🌟 Top Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Tariq3654467&repo=repo-name&theme=radical)](https://github.com/Tariq3654467/first_aid-app-in-Flutter)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Tariq3654467&repo=repo-name&theme=radical)](https://github.com/Tariq3654467/InternIntelligence_Movie-App)
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Tariq Mehmood](https://www.linkedin.com/in/tariq-mehmood-479b762a1/)
