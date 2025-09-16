@@ -72,11 +72,11 @@ I specialize in building intelligent agent systems using cutting-edge AI framewo
 
 ## 📊 GitHub Stats
 
-![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariq3654467&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tariq3654467&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tariq3654467&theme=radical&hide_border=true)
 
 
 
