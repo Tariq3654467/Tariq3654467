@@ -30,8 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### Database Management
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,7 +47,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -79,13 +76,9 @@ I specialize in building intelligent agent systems using cutting-edge AI framewo
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
 
-## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical&hide_border=true)
 
 ## 📫 Connect with Me
 
@@ -103,7 +96,7 @@ I'm currently exploring the fascinating world of **Agentic AI**, where I'm worki
 - Developing AI-powered mobile applications with Flutter
 - Contributing to open-source AI agent frameworks
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 20225
 
 - [ ] Launch an open-source AI agent framework
 - [ ] Contribute to major AI/ML projects
