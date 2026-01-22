@@ -101,12 +101,6 @@ I build intelligent agent systems using modern AI frameworks and orchestration t
 - Developing AI-powered mobile applications with Flutter
 - Contributing to open-source AI agent frameworks
 
-## 🎯 Goals for 2025
-- [ ] Launch an open-source AI agent framework
-- [ ] Contribute to major AI/ML projects
-- [ ] Build a comprehensive Flutter AI app
-- [ ] Publish more technical articles on Agentic AI
-- [ ] Mentor aspiring developers in AI and mobile development
 
 ## 🤝 Contributing
 I welcome contributions, feedback, and collaboration. If you'd like to contribute:
