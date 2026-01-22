@@ -80,13 +80,7 @@ I build intelligent agent systems using modern AI frameworks and orchestration t
 - 📊 Data Analysis Agents: agents that analyze and interpret datasets
 - 🔍 Research Assistants: autonomous agents for information synthesis
 
-## 📁 Projects
-(Shortlist of highlighted projects — add links and descriptions)
-- Project-AI-Agent — Autonomous research and automation agents (link/description)
-- Flutter-AI-App — AI-powered mobile app built with Flutter (link/description)
-- LangFlow-Integrations — Visual flows for agent orchestration (link/description)
 
-If you'd like, I can help add project cards/links here with readmes for each.
 
 ## 📊 GitHub Stats
 ![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariq3654467&show_icons=true&theme=radical&hide_border=true&count_private=true)
