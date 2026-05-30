@@ -1,14 +1,17 @@
 # Hi there, I'm Tariq! 👋
 
-Passionate developer focused on **Agentic AI**, **Devops**  **Mobile App Development**, building efficient and innovative software solutions.
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FTariq3654467&style=for-the-badge)](https://rankistan.dev)
+
+Passionate developer focused on **Agentic AI**, **DevOps**, and **Mobile App Development**, building efficient and innovative software solutions.
 
 ## 🚀 About Me
+
 - 🔭 Currently working on **Flutter Development** and **Agentic AI** systems
 - 🌱 Learning **cloud computing**, **DevOps**, and **AI agent orchestration**
 - 👯 Open to collaborate on open-source projects in AI and mobile development
-- 💬 Ask me about **Python, Java, SQL, Dart, Flutter, and Agentic AI**
+- 💬 Ask me about **Python, Java, SQL, Dart, Flutter**, and **Agentic AI**
 - 📝 Blog: [tariqbloginng.blogspot.com](https://tariqbloginng.blogspot.com/)
-- 📫 Contact: [janjuatariq7614@gmail.com](mailto:janjuatariq7614@gmail.com)
+- 📫 Email: [janjuatariq7614@gmail.com](mailto:janjuatariq7614@gmail.com)
 - ⚡ Fun fact: I enjoy exploring the outdoors and running marathons
 
 ## 🛠️ Tech Stack
@@ -45,13 +48,13 @@ Passionate developer focused on **Agentic AI**, **Devops**  **Mobile App Develop
 
 Building intelligent agent systems with modern AI frameworks:
 
-- **Multi-Agent Systems**: Collaborative agent architectures using CrewAI
-- **Workflow Automation**: Adaptive, learnable workflows with LangChain & LangFlow
-- **NLP & Conversational AI**: Natural language interfaces and processing
-- **Data Analysis Agents**: Autonomous agents for dataset analysis and interpretation
-- **Research Assistants**: Information synthesis and knowledge extraction agents
+- **Multi-Agent Systems** – Collaborative agent architectures using CrewAI
+- **Workflow Automation** – Adaptive, learnable workflows with LangChain & LangFlow
+- **NLP & Conversational AI** – Natural language interfaces and processing
+- **Data Analysis Agents** – Autonomous agents for dataset analysis and interpretation
+- **Research Assistants** – Information synthesis and knowledge extraction agents
 
-**Technologies**: LangChain, CrewAI, LangFlow, n8n, OpenAI, Hugging Face
+**Core Technologies**: LangChain, CrewAI, LangFlow, n8n, OpenAI, Hugging Face
 
 ## 📊 GitHub Stats
 
@@ -62,12 +65,14 @@ Building intelligent agent systems with modern AI frameworks:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tariq3654467&theme=radical&hide_border=true)
 
 ## 💡 Current Focus
+
 - Building autonomous AI agents that reason, plan, and execute tasks
 - Creating multi-agent systems for enterprise automation
 - Developing AI-powered mobile applications with Flutter
 - Contributing to open-source AI agent frameworks
 
 ## 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-mehmood-479b762a1/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://tariqbloginng.blogspot.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janjuatariq7614@gmail.com)
